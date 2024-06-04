@@ -80,7 +80,6 @@ export default function Posts() {
           />
         </View>
       )}
-      <Text>Posts</Text>
     </View>
   );
 }
